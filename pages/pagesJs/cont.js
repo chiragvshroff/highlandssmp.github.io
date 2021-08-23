@@ -1,0 +1,1 @@
+location = 'https://discord.gg/QB5Azu9wTQ'
