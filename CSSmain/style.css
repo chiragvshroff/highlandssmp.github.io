@@ -64,3 +64,14 @@
   font-weight: 100;
   line-height: 25px;
 }
+
+.footer-text{
+  color: #fff;
+}
+
+footer{
+  position: absolute;
+  bottom: 45;
+  text-align: center;
+  width: 100%;
+}
