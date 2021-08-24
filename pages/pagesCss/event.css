@@ -85,6 +85,6 @@
 
 .button:hover {
   background-color: #1d29d6;
-  color: black;
+  color: white;
 }
 .button {border-radius: 12px;}
