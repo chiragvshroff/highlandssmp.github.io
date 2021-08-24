@@ -38,7 +38,7 @@
   content: '';
   height: 3px;
   width: 0%;
-  background: #2ae6ff;
+  background: #17df92;
   position: absolute;
   left: 0;
   bottom: -10px;
@@ -78,9 +78,9 @@
   cursor: pointer;
 }
 .button {
-  background-color: #201dd6; 
+  background-color: #1dd6ae; 
   color: black; 
-  border: 2px solid #201dd6;
+  border: 2px solid #1dd6ae;
 }
 
 .button:hover {

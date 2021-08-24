@@ -1,1 +1,1 @@
-console.log("What the f*** you are trying to do here? huh?")
+console.log("If Valorant and minecraft had a baby: Fortnite")
