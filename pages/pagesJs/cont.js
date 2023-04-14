@@ -1,1 +1,1 @@
-location = 'https://discord.gg/QB5Azu9wTQ'
+location = 'https://discord.gg/highlands'
